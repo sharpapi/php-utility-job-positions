@@ -33,7 +33,7 @@ class JobPositionsClient extends SharpApiClient
      */
     public function listJobPositions(array $params = []): array
     {
-        $response = $this->makeRequest('GET', '/utilities/job_positions_list', $params);
+        $response = $this->makeGetRequest('/utilities/job_positions_list', $params);
         return json_decode($response->getBody()->__toString(), true);
     }
 
