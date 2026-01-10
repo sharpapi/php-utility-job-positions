@@ -16,7 +16,7 @@ Check the full documentation on the [Utility Job Positions API for PHP API](http
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVm) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsec) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/utility/job-positions-api) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
